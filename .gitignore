@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local runtime output
+fog_node/fog_logs.jsonl
+
+# Local secrets
+fog_node/os.env
+
+# Terraform generated state
+.terraform/
+*.tfstate
+*.tfstate.*

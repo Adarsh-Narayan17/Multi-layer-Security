@@ -1,0 +1,7 @@
+boto3
+pyotp
+bcrypt
+scikit-learn
+joblib
+twilio
+pandas

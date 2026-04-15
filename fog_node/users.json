@@ -1,0 +1,18 @@
+{
+    "RFID-1001": {
+        "user_id": "user_1001",
+        "active": true,
+        "pin_hash": "$2b$12$yeIZ88mBkTL1VRPmpH2vwuosiAE3MwD3z/kfrkKyEOeOdSCOTHFC2",
+        "otp_secret": "M3Y2WU65RCOKNLTU6PO44UNFGHKE4XVC",
+        "phone": "+10000000001",
+        "max_failed_threshold": 3
+    },
+    "RFID-1002": {
+        "user_id": "user_1002",
+        "active": true,
+        "pin_hash": "$2b$12$2LtwGJOCe1NNAZLqAVVdt.AUVmAiHyWfmMi8fBZGTTlme25G3wXja",
+        "otp_secret": "5NZ5WRCG2QTB4OYNWB2I5KFJYZJHZY2Q",
+        "phone": "+10000000002",
+        "max_failed_threshold": 3
+    }
+}
